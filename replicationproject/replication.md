@@ -88,15 +88,16 @@ This project is related to mine because for this project I tried to using the fa
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+Start the project with an initial servo motor test. Connect the microbit pins P0, 3V and GND to the the servo motor as shown in the fig below.
 
 ![Image](missingimage.png)
 
-*Include screenshots of the code you have used.*
+Once the connections are done, go to https://makecode.microbit.org/ and start a new project. Create the following code as shown in the picture below. Download the code into the microbit and test the rotation.
+
+![Image](missingimage.png)
+
+Now with the same connections and a successful run of the previous test, build another code as shown in the figure below.
+
 
 ## Project outcome ##
 
