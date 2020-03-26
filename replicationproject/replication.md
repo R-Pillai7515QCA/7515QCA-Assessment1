@@ -16,12 +16,12 @@ https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-
 
 ![Image](002.png)
 
-This project is related to mine because it is heavily inspired my project and the code base is very similar to my code base. Both the projects make use of Micro:bit and are coded using the website makecode.microbit.org. 
+This project is related to mine because it has heavily inspired my project, and the code base used is very similar. Both the projects make use of Micro:bit and are coded using the website makecode.microbit.org. Both the projects also make use of Servo motors and the in-built microbit temperature sensor.
 
 ### Related project 2 ###
-(Insert name of project)
+Show String
 
-(Insert URL to project)
+https://makecode.microbit.org/reference/basic/show-string
 
 ![Image](missingimage.png)
 
