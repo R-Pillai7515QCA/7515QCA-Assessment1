@@ -32,7 +32,7 @@ Using The BBC micro:bit To Control A Servo
 
 https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
 
-![Image](missingimage.png)
+![Image](004.png)
 
 This project is related to mine because it involves the testing of my servo motor. Although the code base I used to test my servo motor was slightly different, this project gave me an idea to test the rotation capabilities of the servo motor
 
@@ -41,9 +41,9 @@ Micro:bit - Heat activated Fan
 
 https://www.youtube.com/watch?v=iilfeimMDjM
 
-![Image](missingimage.png)
+![Image](005.png)
 
-This project is related to mine because for this project I tried to using the fan and was successful in coding the control of it with respect to temperature. Increase in temperature would lead to increase in speed of the fan. Due to lack of available resources and power supplied by microbit, both the fan and servo motor could not be implemented together.
+This project is related to mine because for this project I tried to using the fan and was successful in coding the control of it with respect to temperature. Increase in temperature would lead to increase in speed of the fan. Due to lack of available resources and power supplied by micro:bit, both the fan and servo motor could not be implemented together.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
