@@ -28,22 +28,22 @@ https://makecode.microbit.org/reference/basic/show-string
 This project is related to mine because showing a string value for a certain range of temperature is part of my project as well.
 
 ### Related project 3 ###
-(Insert name of project)
+Using The BBC micro:bit To Control A Servo
 
-(Insert URL to project)
+https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it involves the testing of my servo motor. Although the code base I used to test my servo motor was slightly different, this project gave me an idea to test the rotation capabilities of the servo motor
 
 ### Related project 4 ###
-(Insert name of project)
+Micro:bit - Heat activated Fan
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=iilfeimMDjM
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because for this project I tried to using the fan and was successful in coding the control of it with respect to temperature. Increase in temperature would lead to increase in speed of the fan. Due to lack of available resources and power supplied by microbit, both the fan and servo motor could not be implemented together.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
