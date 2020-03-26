@@ -23,7 +23,7 @@ Show String
 
 https://makecode.microbit.org/reference/basic/show-string
 
-![Image](003.png)
+![Image](004.png)
 
 This project is related to mine because showing a string value for a certain range of temperature is part of my project as well.
 
@@ -32,7 +32,7 @@ Using The BBC micro:bit To Control A Servo
 
 https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
 
-![Image](004.png)
+![Image](003.png)
 
 This project is related to mine because it involves the testing of my servo motor. Although the code base I used to test my servo motor was slightly different, this project gave me an idea to test the rotation capabilities of the servo motor
 
@@ -110,13 +110,15 @@ I attached the servo motor in that hole and with the micro:bit coded to show tem
 
 I later decorated the box a bit more and gave empahsis on the readings as well.
 
-![Image](027.png)
+
 
 After this, I tried to include a fan by connecting the input P2 to the positive end and GND to negative end of the fan. Afterwards I coded the following code to control the speed of the fan with temperature in such a manner that as temperature increases, fan speed increases.
 
-![Image](028.jpeg)
+![Image](027.jpeg)
 
 The code worked perfectly as when the risen temperature started to drop, so did the fan speed as well. But what laid motionless was the servo motor.
+
+![Image](028.jpeg)
 
 ## Project outcome ##
 
