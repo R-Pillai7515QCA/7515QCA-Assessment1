@@ -23,9 +23,9 @@ Show String
 
 https://makecode.microbit.org/reference/basic/show-string
 
-![Image](missingimage.png)
+![Image](Show String (2).png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because showing a string value for a certain range of temperature is part of my project as well.
 
 ### Related project 3 ###
 (Insert name of project)
