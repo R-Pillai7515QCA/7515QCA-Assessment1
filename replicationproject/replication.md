@@ -4,7 +4,7 @@
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Temperature gauge ##
+## Temperature Gauge with Report ##
 (Insert the name of the project you chose to replicate.)
 
 ## Related projects ##
@@ -15,9 +15,9 @@ Temperature Gauge
 
 https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
 
-![Image](001.png)
+![Image](002.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it is heavily inspired my project and the code base is very similar to my code base. Both the projects make use of Micro:bit and are coded using the website makecode.microbit.org. 
 
 ### Related project 2 ###
 (Insert name of project)
