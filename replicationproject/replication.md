@@ -23,7 +23,7 @@ Show String
 
 https://makecode.microbit.org/reference/basic/show-string
 
-![Image](Show String (2).png)
+![Image](003.png)
 
 This project is related to mine because showing a string value for a certain range of temperature is part of my project as well.
 
