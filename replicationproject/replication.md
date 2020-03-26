@@ -96,7 +96,7 @@ Once the connections are done, go to https://makecode.microbit.org/ and start a 
 
 ![Image](missingimage.png)
 
-Now with the same connections and a successful run of the previous test, build another code as shown in the figure below.
+Now with the same connections and a successful run of the previous test, build another code as shown in the figure below. Download the code and implement it in the micro:bit. 
 
 
 ## Project outcome ##
