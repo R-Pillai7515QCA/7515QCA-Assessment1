@@ -90,31 +90,31 @@ This project is related to mine because for this project I tried to using the fa
 
 I started the project with an initial servo motor test by connecting the microbit pins P0, 3V and GND to the the servo motor as shown in the fig below.
 
-![Image](missingimage.png)
+![Image](022.jpeg)
 
 Once the connections were done, I went to https://makecode.microbit.org/ and started a new project and created the following code as shown in the picture below. Later, I downloaded the code into the microbit and tested the rotation.
 
-![Image](missingimage.png)
+![Image](023.png)
 
 Now with the same connections and a successful run of the previous test, I built another code as shown in the figure below. Later I downloaded the code and implemented it in the micro:bit. This code was used to mark the temperature readings to make a gauge scale.
 
-![Image](missingimage.png)
+![Image](024.png)
 
 I used a cardboard box and stuck a white sheet on it, made a hole so that the servo motor could be attached.
 
-![Image](missingimage.png)
+![Image](025.jpeg)
 
 I attached the servo motor in that hole and with the micro:bit coded to show temperature, I marked the readings on the white sheet of paper. I controlled the temperature by using a hair dryer.
 
-![Image](missingimage.png)
+![Image](026.jpeg)
 
 I later decorated the box a bit more and gave empahsis on the readings as well.
 
-![Image](missingimage.png)
+![Image](027.png)
 
 After this, I tried to include a fan by connecting the input P2 to the positive end and GND to negative end of the fan. Afterwards I coded the following code to control the speed of the fan with temperature in such a manner that as temperature increases, fan speed increases.
 
-![Image](missingimage.png)
+![Image](028.jpeg)
 
 The code worked perfectly as when the risen temperature started to drop, so did the fan speed as well. But what laid motionless was the servo motor.
 
