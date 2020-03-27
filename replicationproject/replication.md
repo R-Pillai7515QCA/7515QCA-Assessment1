@@ -120,9 +120,11 @@ The code worked perfectly as when the risen temperature started to drop, so did 
 
 ![Image](028.jpeg)
 
-Due to lack of resources available to fix the problem and avoiding to venture outside to look for these resources due to the recent Covid-19 outbreak, I decided to leave the fan aside and move on with the temperature gauge. With the same connections intact, build the following code for "Weather Report" as shown in the image below.
+Due to lack of resources available to fix the problem and avoiding to venture outside to look for these resources due to the recent Covid-19 outbreak, I decided to leave the fan aside and move on with the temperature gauge. With the same connections intact, I built the following code for "Weather Report" as shown in the image below.
 
 ![Image](030.png)
+
+As for the solution to bring power into the micro:bit
 
 ## Project outcome ##
 
@@ -144,7 +146,7 @@ This is a mini prototype of what could be a weather box with capabilities of eit
 
 ### Showcase image ###
 
-![Image](missingimage.png)
+![Image](0265.jpeg)
 
 ### Additional view ###
 
@@ -152,7 +154,13 @@ This is a mini prototype of what could be a weather box with capabilities of eit
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+The first thing I understood while building this project was to consider the factor of power input for each and every device that would be connected while building the project. The coding aspect of this project is really interesting as I came to know about the use of additional code blocks that can be used. Coding on a micro:bit is interactive and easy as it also allows you to simulate virtually the results of the code that is built. 
+
+I could have improved this project if I had an external temperature detector which could measure the temperature of a solid and liquid object. Also by adding an external power supply to the servo motor, I could have also added a fan that increases speed with respect to the temperature. With a speaker, a little bit of extra coding, and time, I could implement a virtual assistant that would read the "Weather Report" out loud. This could help the blind to also interact with my project as well.
+
+The fan implementation was not a complete success as I got the code working. But just coding is not the main aspect to building anything, engineers should be capable of iterating out their code in the open world. To make interactive projects, one must reach culmination of coding, building and design, which is only possible by engaging and practicing with other interactive designers as well.
+
+That conludes my understanding by working on this project.
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
