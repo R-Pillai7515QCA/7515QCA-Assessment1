@@ -122,26 +122,29 @@ The code worked perfectly as when the risen temperature started to drop, so did 
 
 Due to lack of resources available to fix the problem and avoiding to venture outside to look for these resources due to the recent Covid-19 outbreak, I decided to leave the fan aside and move on with the temperature gauge.
 
-
 ## Project outcome ##
 
-*Complete the following information.*
+The project worked as expected. With the help of my friend, who was handling the hair dryer to increase the temperature, and me recording the video, the invention took the readings accordingly and gave string output for each temperature range. Although when the temperature was beyond 45 C, the pointer started vibrating, indicating "Danger" on the micro:bit screen was unintentional but it did give a dramatic flair. As the temperature dropped gradually, it gave out other "Reports" for the following temperature ranges.
 
-### Project title ###
+1) Between 45 C and 40 C - Hot
+2) Between 40 C and 35 C - Moderate
+3) Between 35 C and 30 C - Cool
+4) Beneath 30 C          - Chill
+5) Beyond 45 C           - Danger
+
+Refer the video for the recorded experiment outcome.
+
+### Weather Report ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This is a mini prototype of what could be a weather box with capabilities of either cooling or heating the space on the basis of environment temperature ( with fan and heater attached). With an external thermal detector, an advanced version of this project can be used in hospitals to give temperature readings of patients and at the same time give a response back to the patients about their temperature without the presence of a doctor around. This could also be used in pandemic situations when doctors get really busy with other patients. This could also be used at home by children to understand the changes of temperature.
 
 ### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 ![Image](missingimage.png)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](missingimage.png)
 
