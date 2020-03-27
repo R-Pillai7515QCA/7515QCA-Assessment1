@@ -1,13 +1,8 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
-
-## Temperature Gauge with Report ##
+## Weather Report ##
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Temperature Gauge
@@ -154,19 +149,14 @@ This is a mini prototype of what could be a weather box with capabilities of eit
 
 ### Reflection ###
 
-The first thing I understood while building this project was to consider the factor of power input for each and every device that would be connected while building the project. The coding aspect of this project is really interesting as I came to know about the use of additional code blocks that can be used. Coding on a micro:bit is interactive and easy as it also allows you to simulate virtually the results of the code that is built. 
+The first thing I understood while building this project was to consider the factor of power input for each and every component that would be connected. The coding aspect of this project is really interesting as I came to know about the use of additional code blocks that can be used. Coding on a micro:bit is interactive and easy as it also allows you to simulate the results of the code that is built. 
 
-I could have improved this project if I had an external temperature detector which could measure the temperature of a solid and liquid object. Also by adding an external power supply to the servo motor, I could have also added a fan that increases speed with respect to the temperature. With a speaker, a little bit of extra coding, and time, I could implement a virtual assistant that would read the "Weather Report" out loud. This could help the blind to also interact with my project as well.
+I could have improved this project if I had an external temperature detector which could measure the temperature of a solid and liquid object. Also by adding an external power supply to the servo motor, I could have also added a fan that increases speed with respect to the temperature. With a speaker, a little bit of extra coding, and time, I could implement a virtual assistant that would read the "Weather Report" out loud. This could help blind people to also interact with my project as well.
 
 The fan implementation was not a complete success as I got the code working. But just coding is not the main aspect to building anything, engineers should be capable of iterating out their code in the open world. To make interactive projects, one must reach culmination of coding, building and design, which is only possible by engaging and practicing with other interactive designers as well.
 
-That conludes my understanding by working on this project.
+That conludes my understanding by working on this project. References that I have used for this project are basically the related projects I have mentioned but please check the list below.
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
