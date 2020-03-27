@@ -154,10 +154,15 @@ The fan implementation was not a complete success as I got the code working. But
 That conludes my understanding by working on this project. References that I have used for this project are basically the related projects I have mentioned but please check the list below.
 
 1) MakeCode: https://makecode.microbit.org/
+
 2) Micro:bit - Heat activated fan: https://www.youtube.com/watch?v=iilfeimMDjM
+
 3) Show String: https://makecode.microbit.org/reference/basic/show-string
+
 4) Temperature Gauge: https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
+
 5) Using a servo with the micro:bit: https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
+
 6) Using the BBC micro:bit to control a servo: https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
 
 
