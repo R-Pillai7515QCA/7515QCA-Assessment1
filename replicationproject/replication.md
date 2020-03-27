@@ -131,7 +131,8 @@ The project worked as expected. With the help of my friend, who was handling the
 4) Beneath 30 C          - Chill
 5) Beyond 45 C           - Danger
 
-Refer the video for the recorded experiment outcome.
+Refer the video for the recorded experiment outcome. Refer the youtube link below:
+https://www.youtube.com/watch?v=-lQDBV0vSfQ
 
 ### Weather Report ###
 
