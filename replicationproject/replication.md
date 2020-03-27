@@ -146,7 +146,7 @@ This is a mini prototype of what could be a weather box with capabilities of eit
 
 ### Additional view ###
 
-![Image](missingimage.png)
+![Image](031.jpeg)
 
 ### Reflection ###
 
