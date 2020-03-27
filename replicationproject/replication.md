@@ -114,7 +114,7 @@ I later decorated the box a bit more and gave empahsis on the readings as well.
 
 After this, I tried to include a fan by connecting the input P2 to the positive end and GND to negative end of the fan. Afterwards I coded the following code to control the speed of the fan with temperature in such a manner that as temperature increases, fan speed increases.
 
-![Image](027.jpeg)
+![Image](027.png)
 
 The code worked perfectly as when the risen temperature started to drop, so did the fan speed as well. But what laid motionless was the servo motor probably due to insufficient power input.
 
