@@ -41,15 +41,12 @@ https://www.youtube.com/watch?v=iilfeimMDjM
 This project is related to mine because for this project I tried to using the fan and was successful in coding the control of it with respect to temperature. Increase in temperature would lead to increase in speed of the fan. Due to lack of available resources and power supplied by micro:bit, both the fan and servo motor could not be implemented together.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: I thought this would talk about design of technical interactive objects. There is not much thinking that would go into design when it comes to simple objects. Underestimated the concept of design thinking.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
@@ -57,24 +54,23 @@ This project is related to mine because for this project I tried to using the fa
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: Never understood microinteractions so I had very little of knowledge of it. I thought they were just additional gimmicks that made a product look more fancy.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: The concept of microinteractions and what exactly they are. Although we do not tend to emphasize the importance of microinteractions, they have a major impact when it comes to interaction. They also explain some certain cases where microinteractions are not features yet they become features of some daily products.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: The future of microinteractions and it's what makes it so impactful - Design or Function?.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: I have also included a microinteraction in my project which is the "Weather Report" for each and every temperature detected. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: Before reading this document I presumed that designers do not have to learn coding. Also I never presumed that one could sketch with code. Also I presumed that one must already possess the skills while building a project whereas it is not true.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: Well first thing is that design is really important. His device seemed like a bomb for many customers as they entered the store intimidating the customers. Secondly, I also understood that if curiosity is instilled among designers, one can acheive how to make the device no matter the time spent. Since I had experience with Ardiuno, I never realised that along with Processing one could use it in the field of Augmented Reality. Also, not every project initially is created perfect. Only by making mistakes and learning from those mistakes, one can almost reach perfection, but never perfection as evrything can be made better than before. Innovation never ends. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: Is the author still publishing his project papers as the way he goes through some of them are really interesting? Also is he currently working on new projects as well?
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+How this relates to the project I am working on: Well towards the end, he also encountered a dead-end he couldn't avoid and had to abandon a certain part of his project like I did with the fan. However, I felt the same as I wanted to do more with the project just like him and explore certain possibilities with technology like him. He also ventured in this project, head on, as an amateur.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -119,7 +115,7 @@ Due to lack of resources available to fix the problem and avoiding to venture ou
 
 ![Image](030.png)
 
-As for the solution to bring power into the micro:bit
+As for the solution to bring power into the micro:bit, go to this link:
 
 ## Project outcome ##
 
