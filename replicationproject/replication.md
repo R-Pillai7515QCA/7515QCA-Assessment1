@@ -116,9 +116,12 @@ After this, I tried to include a fan by connecting the input P2 to the positive 
 
 ![Image](027.jpeg)
 
-The code worked perfectly as when the risen temperature started to drop, so did the fan speed as well. But what laid motionless was the servo motor.
+The code worked perfectly as when the risen temperature started to drop, so did the fan speed as well. But what laid motionless was the servo motor probably due to insufficient power input.
 
 ![Image](028.jpeg)
+
+Due to lack of resources available to fix the problem and avoiding to venture outside to look for these resources due to the recent Covid-19 outbreak, I decided to leave the fan aside and move on with the temperature gauge.
+
 
 ## Project outcome ##
 
