@@ -120,7 +120,9 @@ The code worked perfectly as when the risen temperature started to drop, so did 
 
 ![Image](028.jpeg)
 
-Due to lack of resources available to fix the problem and avoiding to venture outside to look for these resources due to the recent Covid-19 outbreak, I decided to leave the fan aside and move on with the temperature gauge.
+Due to lack of resources available to fix the problem and avoiding to venture outside to look for these resources due to the recent Covid-19 outbreak, I decided to leave the fan aside and move on with the temperature gauge. With the same connections intact, build the following code for "Weather Report" as shown in the image below.
+
+![Image](030.png)
 
 ## Project outcome ##
 
