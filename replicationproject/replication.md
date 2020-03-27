@@ -46,11 +46,11 @@ This project is related to mine because for this project I tried to using the fa
 
 What I thought before: I thought this would talk about design of technical interactive objects. There is not much thinking that would go into design when it comes to simple objects. Underestimated the concept of design thinking.
 
-What I learned: 
+What I learned: I learned that even simple to simple objects can have design plans and genuine reasons for those design plans as well. For example the author mentions that in a hotel room he stayed at, the sink didn't require to pull the clog manually rather it was just a matter of pushing it. Another example he mentions is that doors with signs to push or pull are examples of flawed design.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: How to incorporate design for a complex device that would not require instructions to use it? The methodology to approach such design ideas is what I am looking for.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: Well technically only the design aspect. I used a  cardboard box to make a standing model. Although upon blowing air dryer, the device would fall down and hence for that purpose, I had to lay it down and take the readings.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -73,7 +73,6 @@ What I would like to know more about: Is the author still publishing his project
 How this relates to the project I am working on: Well towards the end, he also encountered a dead-end he couldn't avoid and had to abandon a certain part of his project like I did with the fan. However, I felt the same as I wanted to do more with the project just like him and explore certain possibilities with technology like him. He also ventured in this project, head on, as an amateur.
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](021.jpeg)
 
@@ -115,7 +114,7 @@ Due to lack of resources available to fix the problem and avoiding to venture ou
 
 ![Image](030.png)
 
-As for the solution to bring power into the micro:bit, go to this link:
+As for the solution to bring power into the micro:bit, go to this link: https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
 
 ## Project outcome ##
 
@@ -153,6 +152,8 @@ I could have improved this project if I had an external temperature detector whi
 The fan implementation was not a complete success as I got the code working. But just coding is not the main aspect to building anything, engineers should be capable of iterating out their code in the open world. To make interactive projects, one must reach culmination of coding, building and design, which is only possible by engaging and practicing with other interactive designers as well.
 
 That conludes my understanding by working on this project. References that I have used for this project are basically the related projects I have mentioned but please check the list below.
+
+
 
 
 
